@@ -1,0 +1,9 @@
+c:\users\nd.com\documents\visual studio 2015\Projects\myownnotepad\myownnotepad\bin\Debug\myownnotepad.exe.config
+c:\users\nd.com\documents\visual studio 2015\Projects\myownnotepad\myownnotepad\bin\Debug\myownnotepad.exe
+c:\users\nd.com\documents\visual studio 2015\Projects\myownnotepad\myownnotepad\bin\Debug\myownnotepad.pdb
+c:\users\nd.com\documents\visual studio 2015\Projects\myownnotepad\myownnotepad\obj\Debug\myownnotepad.csprojResolveAssemblyReference.cache
+c:\users\nd.com\documents\visual studio 2015\Projects\myownnotepad\myownnotepad\obj\Debug\myownnotepad.Form1.resources
+c:\users\nd.com\documents\visual studio 2015\Projects\myownnotepad\myownnotepad\obj\Debug\myownnotepad.Properties.Resources.resources
+c:\users\nd.com\documents\visual studio 2015\Projects\myownnotepad\myownnotepad\obj\Debug\myownnotepad.csproj.GenerateResource.Cache
+c:\users\nd.com\documents\visual studio 2015\Projects\myownnotepad\myownnotepad\obj\Debug\myownnotepad.exe
+c:\users\nd.com\documents\visual studio 2015\Projects\myownnotepad\myownnotepad\obj\Debug\myownnotepad.pdb

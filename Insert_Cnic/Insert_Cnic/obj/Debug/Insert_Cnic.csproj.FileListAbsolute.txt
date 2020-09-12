@@ -1,0 +1,9 @@
+c:\users\nd.com\documents\visual studio 2015\Projects\Insert_Cnic\Insert_Cnic\bin\Debug\Insert_Cnic.exe.config
+c:\users\nd.com\documents\visual studio 2015\Projects\Insert_Cnic\Insert_Cnic\obj\Debug\Insert_Cnic.csprojResolveAssemblyReference.cache
+c:\users\nd.com\documents\visual studio 2015\Projects\Insert_Cnic\Insert_Cnic\obj\Debug\Insert_Cnic.Form1.resources
+c:\users\nd.com\documents\visual studio 2015\Projects\Insert_Cnic\Insert_Cnic\obj\Debug\Insert_Cnic.Properties.Resources.resources
+c:\users\nd.com\documents\visual studio 2015\Projects\Insert_Cnic\Insert_Cnic\obj\Debug\Insert_Cnic.csproj.GenerateResource.Cache
+c:\users\nd.com\documents\visual studio 2015\Projects\Insert_Cnic\Insert_Cnic\bin\Debug\Insert_Cnic.exe
+c:\users\nd.com\documents\visual studio 2015\Projects\Insert_Cnic\Insert_Cnic\bin\Debug\Insert_Cnic.pdb
+c:\users\nd.com\documents\visual studio 2015\Projects\Insert_Cnic\Insert_Cnic\obj\Debug\Insert_Cnic.exe
+c:\users\nd.com\documents\visual studio 2015\Projects\Insert_Cnic\Insert_Cnic\obj\Debug\Insert_Cnic.pdb

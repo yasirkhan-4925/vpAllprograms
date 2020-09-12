@@ -1,0 +1,9 @@
+c:\users\nd.com\documents\visual studio 2015\Projects\urduttext_muhammadyasirkhan\urduttext_muhammadyasirkhan\bin\Debug\urduttext_muhammadyasirkhan.exe.config
+c:\users\nd.com\documents\visual studio 2015\Projects\urduttext_muhammadyasirkhan\urduttext_muhammadyasirkhan\bin\Debug\urduttext_muhammadyasirkhan.exe
+c:\users\nd.com\documents\visual studio 2015\Projects\urduttext_muhammadyasirkhan\urduttext_muhammadyasirkhan\bin\Debug\urduttext_muhammadyasirkhan.pdb
+c:\users\nd.com\documents\visual studio 2015\Projects\urduttext_muhammadyasirkhan\urduttext_muhammadyasirkhan\obj\Debug\urduttext_muhammadyasirkhan.csprojResolveAssemblyReference.cache
+c:\users\nd.com\documents\visual studio 2015\Projects\urduttext_muhammadyasirkhan\urduttext_muhammadyasirkhan\obj\Debug\urduttext_muhammadyasirkhan.Form1.resources
+c:\users\nd.com\documents\visual studio 2015\Projects\urduttext_muhammadyasirkhan\urduttext_muhammadyasirkhan\obj\Debug\urduttext_muhammadyasirkhan.Properties.Resources.resources
+c:\users\nd.com\documents\visual studio 2015\Projects\urduttext_muhammadyasirkhan\urduttext_muhammadyasirkhan\obj\Debug\urduttext_muhammadyasirkhan.csproj.GenerateResource.Cache
+c:\users\nd.com\documents\visual studio 2015\Projects\urduttext_muhammadyasirkhan\urduttext_muhammadyasirkhan\obj\Debug\urduttext_muhammadyasirkhan.exe
+c:\users\nd.com\documents\visual studio 2015\Projects\urduttext_muhammadyasirkhan\urduttext_muhammadyasirkhan\obj\Debug\urduttext_muhammadyasirkhan.pdb

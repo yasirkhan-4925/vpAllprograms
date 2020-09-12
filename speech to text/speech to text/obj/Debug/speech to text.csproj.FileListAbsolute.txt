@@ -1,0 +1,9 @@
+c:\users\nd.com\documents\visual studio 2015\Projects\speech to text\speech to text\bin\Debug\speech to text.exe.config
+c:\users\nd.com\documents\visual studio 2015\Projects\speech to text\speech to text\obj\Debug\speech to text.csprojResolveAssemblyReference.cache
+c:\users\nd.com\documents\visual studio 2015\Projects\speech to text\speech to text\obj\Debug\speech_to_text.Form1.resources
+c:\users\nd.com\documents\visual studio 2015\Projects\speech to text\speech to text\obj\Debug\speech_to_text.Properties.Resources.resources
+c:\users\nd.com\documents\visual studio 2015\Projects\speech to text\speech to text\obj\Debug\speech to text.csproj.GenerateResource.Cache
+c:\users\nd.com\documents\visual studio 2015\Projects\speech to text\speech to text\bin\Debug\speech to text.exe
+c:\users\nd.com\documents\visual studio 2015\Projects\speech to text\speech to text\bin\Debug\speech to text.pdb
+c:\users\nd.com\documents\visual studio 2015\Projects\speech to text\speech to text\obj\Debug\speech to text.exe
+c:\users\nd.com\documents\visual studio 2015\Projects\speech to text\speech to text\obj\Debug\speech to text.pdb

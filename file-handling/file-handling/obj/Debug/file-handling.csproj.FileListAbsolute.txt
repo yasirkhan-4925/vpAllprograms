@@ -1,0 +1,17 @@
+c:\users\nd.com\documents\visual studio 2015\Projects\file-handling\file-handling\bin\Debug\file-handling.exe.config
+c:\users\nd.com\documents\visual studio 2015\Projects\file-handling\file-handling\bin\Debug\file-handling.exe
+c:\users\nd.com\documents\visual studio 2015\Projects\file-handling\file-handling\bin\Debug\file-handling.pdb
+c:\users\nd.com\documents\visual studio 2015\Projects\file-handling\file-handling\obj\Debug\file-handling.csprojResolveAssemblyReference.cache
+c:\users\nd.com\documents\visual studio 2015\Projects\file-handling\file-handling\obj\Debug\file_handling.Form1.resources
+c:\users\nd.com\documents\visual studio 2015\Projects\file-handling\file-handling\obj\Debug\file_handling.Form2.resources
+c:\users\nd.com\documents\visual studio 2015\Projects\file-handling\file-handling\obj\Debug\file_handling.Form3.resources
+c:\users\nd.com\documents\visual studio 2015\Projects\file-handling\file-handling\obj\Debug\file_handling.Form4.resources
+c:\users\nd.com\documents\visual studio 2015\Projects\file-handling\file-handling\obj\Debug\file_handling.Form5.resources
+c:\users\nd.com\documents\visual studio 2015\Projects\file-handling\file-handling\obj\Debug\file_handling.Form6.resources
+c:\users\nd.com\documents\visual studio 2015\Projects\file-handling\file-handling\obj\Debug\file_handling.Form7.resources
+c:\users\nd.com\documents\visual studio 2015\Projects\file-handling\file-handling\obj\Debug\file_handling.Form8.resources
+c:\users\nd.com\documents\visual studio 2015\Projects\file-handling\file-handling\obj\Debug\file_handling.Form9.resources
+c:\users\nd.com\documents\visual studio 2015\Projects\file-handling\file-handling\obj\Debug\file_handling.Properties.Resources.resources
+c:\users\nd.com\documents\visual studio 2015\Projects\file-handling\file-handling\obj\Debug\file-handling.csproj.GenerateResource.Cache
+c:\users\nd.com\documents\visual studio 2015\Projects\file-handling\file-handling\obj\Debug\file-handling.exe
+c:\users\nd.com\documents\visual studio 2015\Projects\file-handling\file-handling\obj\Debug\file-handling.pdb

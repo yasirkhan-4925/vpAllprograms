@@ -1,0 +1,11 @@
+c:\users\nd.com\documents\visual studio 2015\Projects\guessing game\guessing game\bin\Debug\guessing game.exe.config
+c:\users\nd.com\documents\visual studio 2015\Projects\guessing game\guessing game\obj\Debug\guessing game.csprojResolveAssemblyReference.cache
+c:\users\nd.com\documents\visual studio 2015\Projects\guessing game\guessing game\obj\Debug\guessing_game.Form1.resources
+c:\users\nd.com\documents\visual studio 2015\Projects\guessing game\guessing game\obj\Debug\guessing_game.Form2.resources
+c:\users\nd.com\documents\visual studio 2015\Projects\guessing game\guessing game\obj\Debug\guessing_game.Form3.resources
+c:\users\nd.com\documents\visual studio 2015\Projects\guessing game\guessing game\obj\Debug\guessing_game.Properties.Resources.resources
+c:\users\nd.com\documents\visual studio 2015\Projects\guessing game\guessing game\obj\Debug\guessing game.csproj.GenerateResource.Cache
+c:\users\nd.com\documents\visual studio 2015\Projects\guessing game\guessing game\bin\Debug\guessing game.exe
+c:\users\nd.com\documents\visual studio 2015\Projects\guessing game\guessing game\bin\Debug\guessing game.pdb
+c:\users\nd.com\documents\visual studio 2015\Projects\guessing game\guessing game\obj\Debug\guessing game.exe
+c:\users\nd.com\documents\visual studio 2015\Projects\guessing game\guessing game\obj\Debug\guessing game.pdb

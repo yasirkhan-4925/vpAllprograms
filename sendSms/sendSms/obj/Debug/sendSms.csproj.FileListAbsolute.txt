@@ -1,0 +1,11 @@
+c:\users\nd.com\documents\visual studio 2015\Projects\sendSms\sendSms\bin\Debug\sendSms.exe.config
+c:\users\nd.com\documents\visual studio 2015\Projects\sendSms\sendSms\bin\Debug\sendSms.exe
+c:\users\nd.com\documents\visual studio 2015\Projects\sendSms\sendSms\bin\Debug\sendSms.pdb
+c:\users\nd.com\documents\visual studio 2015\Projects\sendSms\sendSms\obj\Debug\sendSms.csprojResolveAssemblyReference.cache
+c:\users\nd.com\documents\visual studio 2015\Projects\sendSms\sendSms\obj\Debug\sendSms.Form1.resources
+c:\users\nd.com\documents\visual studio 2015\Projects\sendSms\sendSms\obj\Debug\sendSms.Properties.Resources.resources
+c:\users\nd.com\documents\visual studio 2015\Projects\sendSms\sendSms\obj\Debug\sendSms.csproj.GenerateResource.Cache
+c:\users\nd.com\documents\visual studio 2015\Projects\sendSms\sendSms\obj\Debug\sendSms.exe
+c:\users\nd.com\documents\visual studio 2015\Projects\sendSms\sendSms\obj\Debug\sendSms.pdb
+c:\users\nd.com\documents\visual studio 2015\Projects\sendSms\sendSms\obj\Debug\sendSms.Form2.resources
+c:\users\nd.com\documents\visual studio 2015\Projects\sendSms\sendSms\bin\Debug\Tulpep.NotificationWindow.dll

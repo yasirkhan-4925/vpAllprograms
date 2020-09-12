@@ -1,0 +1,10 @@
+c:\users\nd.com\documents\visual studio 2015\Projects\marksheet\marksheet\bin\Debug\marksheet.exe.config
+c:\users\nd.com\documents\visual studio 2015\Projects\marksheet\marksheet\obj\Debug\marksheet.csprojResolveAssemblyReference.cache
+c:\users\nd.com\documents\visual studio 2015\Projects\marksheet\marksheet\obj\Debug\marksheet.Form1.resources
+c:\users\nd.com\documents\visual studio 2015\Projects\marksheet\marksheet\obj\Debug\marksheet.Form3.resources
+c:\users\nd.com\documents\visual studio 2015\Projects\marksheet\marksheet\obj\Debug\marksheet.Properties.Resources.resources
+c:\users\nd.com\documents\visual studio 2015\Projects\marksheet\marksheet\obj\Debug\marksheet.csproj.GenerateResource.Cache
+c:\users\nd.com\documents\visual studio 2015\Projects\marksheet\marksheet\bin\Debug\marksheet.exe
+c:\users\nd.com\documents\visual studio 2015\Projects\marksheet\marksheet\bin\Debug\marksheet.pdb
+c:\users\nd.com\documents\visual studio 2015\Projects\marksheet\marksheet\obj\Debug\marksheet.exe
+c:\users\nd.com\documents\visual studio 2015\Projects\marksheet\marksheet\obj\Debug\marksheet.pdb
